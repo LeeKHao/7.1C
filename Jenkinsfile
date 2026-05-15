@@ -9,7 +9,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                echo 'Building application using Maven'
+                echo 'Building application using Maven 1'
             }
         }
 
